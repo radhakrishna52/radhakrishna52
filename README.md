@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @radhakrishna52
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning technical skills
+- 👀 Currently I'm learning web development
 - 💞️ I’m looking to collaborate on group projects
 - 📫 How to reach me....
 
